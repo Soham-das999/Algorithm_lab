@@ -84,6 +84,10 @@ The graph plots:
 
 The experimental curve closely follows the theoretical **O(n log n)** growth.
 
+## Graph Output
+
+![Quick Sort Time Complexity](quick_sort.png)
+
 ---
 
 ## Files Generated
